@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "381270401376",
+    "project_id": "authentication-823d8",
+    "storage_bucket": "authentication-823d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381270401376:android:61614ccdf88c524c8dfe05",
+        "android_client_info": {
+          "package_name": "com.example.drawing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlzbggWFKGMLw0PVT_AwAM37XsF6f5G4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
